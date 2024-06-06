@@ -13,7 +13,7 @@ Feel free to give your sugestions on the code!
 
 Instructions on how to install and set up your project.
 
-```bash
+```console
 # Clone the repository
 git clone https://github.com/lehar303/EYE_20_20_20.git
 
@@ -22,7 +22,7 @@ cd EYE_20_20_20
 
 # Unzip Exec.zip and run application
 Eye_20_20_20.exe
-```bash
+```
 
 ## Usage
 Application window will pop up after every 20 minutes and ask you to look away for 20s. Application will not be minimized during the 20s window. Will prompt you to get back to work after 20s. Remember to **minimize** after 20s when you get back to work. If not, the window will be active in the background and will not pop up for the next notification.
