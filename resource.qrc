@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/audio">
+        <file>Let-s hustle again 1.wav</file>
+    </qresource>
+</RCC>
